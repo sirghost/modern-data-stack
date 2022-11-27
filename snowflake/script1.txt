@@ -6,7 +6,8 @@
  set airbyte_schema = 'AIRBYTE_SCHEMA';
 
  -- set user password
- set airbyte_password = 'password';
+ --set airbyte_password = 'password';
+ set airbyte_password = 'AIRBYTE_PASSWORD';
 
  begin;
 
